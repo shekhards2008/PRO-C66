@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "solution-pro-c66",
+    "slug": "snack-4d3ebddc-21b7-4ca9-a666-0e1ef160c944",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
